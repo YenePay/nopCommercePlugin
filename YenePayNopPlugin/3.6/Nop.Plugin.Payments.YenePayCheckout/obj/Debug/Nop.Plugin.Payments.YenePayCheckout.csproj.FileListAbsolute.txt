@@ -1,0 +1,24 @@
+C:\Users\Sisay\Documents\Visual Studio 2013\Projects\nopCommerce_3.10_Source\Nop.Plugin.Payments.YenePayCheckout\bin\Debug\Nop.Plugin.Payments.YenePayCheckout.dll
+C:\Users\Sisay\Documents\Visual Studio 2013\Projects\nopCommerce_3.10_Source\Nop.Plugin.Payments.YenePayCheckout\bin\Debug\Nop.Plugin.Payments.YenePayCheckout.pdb
+C:\Users\Sisay\Documents\Visual Studio 2013\Projects\Presentation\Nop.Web\Plugins\Payments.YenePayCheckout\Nop.Plugin.Payments.YenePayCheckout.dll
+C:\Users\Sisay\Documents\Visual Studio 2013\Projects\Presentation\Nop.Web\Plugins\Payments.YenePayCheckout\Nop.Plugin.Payments.YenePayCheckout.pdb
+C:\Users\Sisay\Documents\Visual Studio 2013\Projects\nopCommerce_3.10_Source\Presentation\Nop.Web\Plugins\Payments.YenePayCheckout\Description.txt
+C:\Users\Sisay\Documents\Visual Studio 2013\Projects\nopCommerce_3.10_Source\Presentation\Nop.Web\Plugins\Payments.YenePayCheckout\Nop.Plugin.Payments.YenePayCheckout.dll
+C:\Users\Sisay\Documents\Visual Studio 2013\Projects\nopCommerce_3.10_Source\Presentation\Nop.Web\Plugins\Payments.YenePayCheckout\Nop.Plugin.Payments.YenePayCheckout.pdb
+C:\Users\Sisay\Documents\Visual Studio 2013\Projects\nopCommerce_3.10_Source\Nop.Plugin.Payments.YenePayCheckout\obj\Debug\Nop.Plugin.Payments.YenePayCheckout.csprojResolveAssemblyReference.cache
+C:\Users\Sisay\Documents\Visual Studio 2013\Projects\nopCommerce_3.10_Source\Nop.Plugin.Payments.YenePayCheckout\obj\Debug\Nop.Plugin.Payments.YenePayCheckout.dll
+C:\Users\Sisay\Documents\Visual Studio 2013\Projects\nopCommerce_3.10_Source\Nop.Plugin.Payments.YenePayCheckout\obj\Debug\Nop.Plugin.Payments.YenePayCheckout.pdb
+C:\Users\Sisay Getnet\Source\Repos\nopCommercePlugin\YenePayNopPlugin\Presentation\Nop.Web\Plugins\Payments.YenePayCheckout\Description.txt
+C:\Users\Sisay Getnet\Source\Repos\nopCommercePlugin\YenePayNopPlugin\Presentation\Nop.Web\Plugins\Payments.YenePayCheckout\Nop.Plugin.Payments.YenePayCheckout.dll
+C:\Users\Sisay Getnet\Source\Repos\nopCommercePlugin\YenePayNopPlugin\Presentation\Nop.Web\Plugins\Payments.YenePayCheckout\Nop.Plugin.Payments.YenePayCheckout.pdb
+C:\Users\Sisay Getnet\Documents\Visual Studio 2017\Projects\nop36Source\Presentation\Nop.Web\Plugins\Payments.YenePayCheckout\Views\PaymentYenePayCheckout\Configure.cshtml
+C:\Users\Sisay Getnet\Documents\Visual Studio 2017\Projects\nop36Source\Presentation\Nop.Web\Plugins\Payments.YenePayCheckout\Views\PaymentYenePayCheckout\PaymentInfo.cshtml
+C:\Users\Sisay Getnet\Documents\Visual Studio 2017\Projects\nop36Source\Presentation\Nop.Web\Plugins\Payments.YenePayCheckout\web.config
+C:\Users\Sisay Getnet\Documents\Visual Studio 2017\Projects\nop36Source\Presentation\Nop.Web\Plugins\Payments.YenePayCheckout\Description.txt
+C:\Users\Sisay Getnet\Documents\Visual Studio 2017\Projects\nop36Source\Presentation\Nop.Web\Plugins\Payments.YenePayCheckout\logo.jpg
+C:\Users\Sisay Getnet\Documents\Visual Studio 2017\Projects\nop36Source\Presentation\Nop.Web\Plugins\Payments.YenePayCheckout\Nop.Plugin.Payments.YenePayCheckout.dll.config
+C:\Users\Sisay Getnet\Documents\Visual Studio 2017\Projects\nop36Source\Presentation\Nop.Web\Plugins\Payments.YenePayCheckout\Nop.Plugin.Payments.YenePayCheckout.dll
+C:\Users\Sisay Getnet\Documents\Visual Studio 2017\Projects\nop36Source\Presentation\Nop.Web\Plugins\Payments.YenePayCheckout\Nop.Plugin.Payments.YenePayCheckout.pdb
+C:\Users\Sisay Getnet\Source\Repos\nopCommercePlugin\YenePayNopPlugin\Nop.Plugin.Payments.YenePayCheckout\obj\Debug\Nop.Plugin.Payments.YenePayCheckout.csprojResolveAssemblyReference.cache
+C:\Users\Sisay Getnet\Source\Repos\nopCommercePlugin\YenePayNopPlugin\Nop.Plugin.Payments.YenePayCheckout\obj\Debug\Nop.Plugin.Payments.YenePayCheckout.dll
+C:\Users\Sisay Getnet\Source\Repos\nopCommercePlugin\YenePayNopPlugin\Nop.Plugin.Payments.YenePayCheckout\obj\Debug\Nop.Plugin.Payments.YenePayCheckout.pdb
