@@ -3,3 +3,6 @@
 ################################################################################
 
 *.suo
+
+/YenePayNopPlugin/source/3.6/Nop.Plugin.Payments.YenePayCheckout/obj
+/YenePayNopPlugin/source/3.6/Nop.Plugin.Payments.YenePayCheckout/bin

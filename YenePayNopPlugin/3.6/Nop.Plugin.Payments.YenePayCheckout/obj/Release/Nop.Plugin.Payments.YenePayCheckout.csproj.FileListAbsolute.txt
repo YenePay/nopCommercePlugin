@@ -1,6 +1,0 @@
-C:\Users\Sisay\Documents\Visual Studio 2013\Projects\nopCommerce_3.10_Source\Nop.Plugin.Payments.YenePayCheckout\bin\Release\Description.txt
-C:\Users\Sisay\Documents\Visual Studio 2013\Projects\nopCommerce_3.10_Source\Nop.Plugin.Payments.YenePayCheckout\bin\Release\Nop.Plugin.Payments.YenePayCheckout.dll
-C:\Users\Sisay\Documents\Visual Studio 2013\Projects\nopCommerce_3.10_Source\Nop.Plugin.Payments.YenePayCheckout\bin\Release\Nop.Plugin.Payments.YenePayCheckout.pdb
-C:\Users\Sisay\Documents\Visual Studio 2013\Projects\nopCommerce_3.10_Source\Nop.Plugin.Payments.YenePayCheckout\obj\Release\Nop.Plugin.Payments.YenePayCheckout.csprojResolveAssemblyReference.cache
-C:\Users\Sisay\Documents\Visual Studio 2013\Projects\nopCommerce_3.10_Source\Nop.Plugin.Payments.YenePayCheckout\obj\Release\Nop.Plugin.Payments.YenePayCheckout.dll
-C:\Users\Sisay\Documents\Visual Studio 2013\Projects\nopCommerce_3.10_Source\Nop.Plugin.Payments.YenePayCheckout\obj\Release\Nop.Plugin.Payments.YenePayCheckout.pdb
